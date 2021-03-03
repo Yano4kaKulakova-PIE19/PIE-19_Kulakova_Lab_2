@@ -1,0 +1,27 @@
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\111\Desktop\Яно4ка\Учеба\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\Яно4ка\2 семестр\АиП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
