@@ -25,3 +25,12 @@ C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsForms
 C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\111\Desktop\Яно4ка\1 курс\2 семестр\АиП\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\projects\PIE-19_Kulakova_Lab_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

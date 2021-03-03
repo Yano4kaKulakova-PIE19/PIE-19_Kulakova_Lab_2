@@ -74,15 +74,16 @@
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(143, 10);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(5);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(204, 29);
             this.textBox1.TabIndex = 3;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(143, 45);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(5);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(204, 29);
             this.textBox2.TabIndex = 4;
@@ -90,7 +91,7 @@
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(143, 78);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(5);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(204, 29);
             this.textBox3.TabIndex = 5;
@@ -98,7 +99,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(353, 9);
-            this.button1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button1.Margin = new System.Windows.Forms.Padding(5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(144, 29);
             this.button1.TabIndex = 6;
@@ -119,7 +120,7 @@
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(353, 44);
-            this.button2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button2.Margin = new System.Windows.Forms.Padding(5);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(144, 29);
             this.button2.TabIndex = 8;
@@ -130,7 +131,7 @@
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(353, 79);
-            this.button3.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button3.Margin = new System.Windows.Forms.Padding(5);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(144, 29);
             this.button3.TabIndex = 9;
@@ -141,7 +142,7 @@
             // button4
             // 
             this.button4.Location = new System.Drawing.Point(353, 114);
-            this.button4.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button4.Margin = new System.Windows.Forms.Padding(5);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(144, 29);
             this.button4.TabIndex = 10;
@@ -166,7 +167,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Times New Roman", 14F);
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "Арифметические операции";
             this.ResumeLayout(false);
